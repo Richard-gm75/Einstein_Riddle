@@ -1,0 +1,13 @@
+C:\Users\gachi\source\repos\Einstein_Riddle\Einstein_Riddle\obj\Debug\netcoreapp3.1\Einstein_Riddle.csproj.AssemblyReference.cache
+C:\Users\gachi\source\repos\Einstein_Riddle\Einstein_Riddle\obj\Debug\netcoreapp3.1\Einstein_Riddle.AssemblyInfoInputs.cache
+C:\Users\gachi\source\repos\Einstein_Riddle\Einstein_Riddle\obj\Debug\netcoreapp3.1\Einstein_Riddle.AssemblyInfo.cs
+C:\Users\gachi\source\repos\Einstein_Riddle\Einstein_Riddle\obj\Debug\netcoreapp3.1\Einstein_Riddle.csproj.CoreCompileInputs.cache
+C:\Users\gachi\source\repos\Einstein_Riddle\Einstein_Riddle\bin\Debug\netcoreapp3.1\Einstein_Riddle.exe
+C:\Users\gachi\source\repos\Einstein_Riddle\Einstein_Riddle\bin\Debug\netcoreapp3.1\Einstein_Riddle.deps.json
+C:\Users\gachi\source\repos\Einstein_Riddle\Einstein_Riddle\bin\Debug\netcoreapp3.1\Einstein_Riddle.runtimeconfig.json
+C:\Users\gachi\source\repos\Einstein_Riddle\Einstein_Riddle\bin\Debug\netcoreapp3.1\Einstein_Riddle.runtimeconfig.dev.json
+C:\Users\gachi\source\repos\Einstein_Riddle\Einstein_Riddle\bin\Debug\netcoreapp3.1\Einstein_Riddle.dll
+C:\Users\gachi\source\repos\Einstein_Riddle\Einstein_Riddle\bin\Debug\netcoreapp3.1\Einstein_Riddle.pdb
+C:\Users\gachi\source\repos\Einstein_Riddle\Einstein_Riddle\obj\Debug\netcoreapp3.1\Einstein_Riddle.dll
+C:\Users\gachi\source\repos\Einstein_Riddle\Einstein_Riddle\obj\Debug\netcoreapp3.1\Einstein_Riddle.pdb
+C:\Users\gachi\source\repos\Einstein_Riddle\Einstein_Riddle\obj\Debug\netcoreapp3.1\Einstein_Riddle.genruntimeconfig.cache
